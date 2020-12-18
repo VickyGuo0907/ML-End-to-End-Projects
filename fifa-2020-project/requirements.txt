@@ -1,0 +1,8 @@
+
+numpy
+flask
+joblib
+pandas
+requests
+
+beautifulsoup4 >=4.9.3
