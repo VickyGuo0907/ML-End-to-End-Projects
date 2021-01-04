@@ -1,8 +1,8 @@
-
 numpy
 flask
 joblib
 pandas
 requests
+mod_wsgi
 
 beautifulsoup4 >=4.9.3
